@@ -1,0 +1,13 @@
+{
+  "name": "SMB-Client",
+  "keywords": "SMB,SAMBA,CIFS,File Client",
+  "description": "Library for MKR1000 to connect a PC or File Server",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/RetepRelleum/SMB-Client.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "MKR1000",
+  "version": "0.11"
+}
