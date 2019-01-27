@@ -23,7 +23,7 @@
 * DEALINGS IN THE SOFTWARE
 *
 */
- 
+
 #include <Debug.h>
 #include <Andx.h>
 void Andx::send(){
