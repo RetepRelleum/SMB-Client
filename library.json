@@ -7,7 +7,16 @@
     "type": "git",
     "url": "https://github.com/RetepRelleum/SMB-Client.git"
   },
+  "authors":
+ [
+   {
+     "name": "Peter Müller",
+     "email": "retep.relleum@bluewin.ch",
+     "url": "https://github.com/RetepRelleum/SMB-Client.git",
+     "maintainer": true
+   }
+ ],
   "frameworks": "arduino",
-  "platforms": "MKR1000",
+  "platforms": "*",
   "version": "0.11"
 }
