@@ -6,5 +6,5 @@ File Client for MKR1000 to connect SMB or Samba File Server
 ## Sequenzdiagramm
 ![Klassendiagramm](https://github.com/RetepRelleum/SMB-Client/blob/master/docs/Sequenzdiagramm.png)
 
-
+Weitere Informationen
 https://docs.microsoft.com/en-us/windows/desktop/fileio/microsoft-smb-protocol-and-cifs-protocol-overview
