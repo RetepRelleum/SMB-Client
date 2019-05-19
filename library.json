@@ -1,22 +1,18 @@
 {
-  "name": "SMB-Client",
-  "keywords": "SMB,SAMBA,CIFS,File Client",
-  "description": "Library for MKR1000 to connect a PC or File Server",
-  "repository":
-  {
-    "type": "git",
-    "url": "https://github.com/RetepRelleum/SMB-Client.git"
-  },
-  "authors":
- [
-   {
-     "name": "Peter Müller",
-     "email": "retep.relleum@bluewin.ch",
-     "url": "https://github.com/RetepRelleum/SMB-Client.git",
-     "maintainer": true
-   }
- ],
-  "frameworks": "arduino",
-  "platforms": "*",
-  "version": "0.11"
+	"name": "SMB-Client",
+	"keywords": "SMB,SAMBA,CIFS,File Client",
+	"description": "Library for MKR1000 to connect a PC or File Server",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RetepRelleum/SMB-Client.git"
+	},
+	"authors": [{
+		"name": "Peter Müller",
+		"email": "retep.relleum@bluewin.ch",
+		"url": "https://github.com/RetepRelleum/SMB-Client.git",
+		"maintainer": true
+	}],
+	"frameworks": "arduino",
+	"platforms": "*",
+	"version": "0.11"
 }
