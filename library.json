@@ -1,5 +1,5 @@
 {
-	"name": "SMB-Client",
+	"name": "SMB-Client", 
 	"keywords": "SMB,SAMBA,CIFS,File Client",
 	"description": "Library for MKR1000 to connect a PC or File Server",
 	"repository": {
